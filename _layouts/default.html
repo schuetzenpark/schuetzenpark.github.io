@@ -1,0 +1,111 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="{{'/assets/main.css' | prepend: site.baseurl}}">
+	</head>
+	<body>
+		<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+			<a class="navbar-brand" href="#">Schuetzen Park</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+			  <span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="collapsibleNavbar">
+			  <ul class="navbar-nav">
+				<li class="nav-item">
+				  <a class="nav-link" href="/index.html">Home</a>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link" href="/news.html">News</a>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link" href="/archives.html">Archives</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/nature.html">Nature</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/culture.html">Culture</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/history.html">History</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/support.html">Support</a>
+				</li>
+			  </ul>
+			</div>  
+		  </nav>
+		  
+		<script src="{{'/assets/vendor/jquery.min.js' | prepend: site.baseurl}}"></script>
+		<script src="{{'/assets/vendor/popper.min.js' | prepend: site.baseurl}}"></script>
+		<script src="{{'/assets/vendor/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+		
+		<div id="language">
+			<label>Language: </label>
+			<select size="1">
+				<option selected value="">English</option>
+				<option value="gh">Deutsch</option>
+				<option value="gl">Plattdüütsch</option>
+			</select>
+		</div>
+		<style>
+			#language {
+				padding: 1em;
+			}
+		</style>
+		<script>
+			let languageInitial = '';
+			function setLanguageDefault() {
+				const selectedLanguage = $('#language option:selected').index();
+				if (window.location.href.indexOf('gh.html') > -1) {
+					languageInitial = "gh";
+					$("#language select").val("gh");
+					$('nav li:nth-child(1) a').text('Startseite');
+					$('nav li:nth-child(2) a').text('Neues');
+					$('nav li:nth-child(3) a').text('Archiv');
+					$('nav li:nth-child(4) a').text('Natur');
+					$('nav li:nth-child(5) a').text('Kultur');
+					$('nav li:nth-child(6) a').text('Geschichte');
+					$('nav li:nth-child(7) a').text('Förderung');
+
+					$('nav li a').each(function(){
+						$(this).attr('href', $(this).attr('href').replace('.html', 'gh.html'));
+					});
+
+				} else if (window.location.href.indexOf('gl.html') > -1) {
+					languageInitial = "gl";
+					$("#language select").val("gl");
+					$('nav li:nth-child(1) a').text('Vörwech');
+					$('nav li:nth-child(2) a').text('Nahrichten');
+					$('nav li:nth-child(3) a').text('Schuur');
+					$('nav li:nth-child(4) a').text('Natuur');
+					$('nav li:nth-child(5) a').text('Kultur');
+					$('nav li:nth-child(6) a').text('Ole Tieden');
+					$('nav li:nth-child(7) a').text('Spendeern');
+
+					$('nav li a').each(function(){
+						$(this).attr('href', $(this).attr('href').replace('.html', 'gl.html'));
+					});
+				}
+			}
+			setLanguageDefault();
+
+			$('#language').change(function (event) {
+				const newLanguage = $("#language select").val();
+				console.log('set to: ' + newLanguage);
+
+				let redirectTo = '';
+				// if (window.location.href.indexOf('gh.html') > -1) {
+				if (window.location.href.indexOf('.html') > -1) {
+					redirectTo = window.location.href.replace(languageInitial + '.html', newLanguage + '.html');
+				} else {
+					redirectTo = '/index' + newLanguage + '.html';
+				}
+				window.location = redirectTo;
+			});
+		</script>
+
+		<div class="container">
+			{{ content }}
+		</div>
+	</body>
+</html>
