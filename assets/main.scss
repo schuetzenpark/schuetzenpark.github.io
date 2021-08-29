@@ -4,50 +4,6 @@
 @import "variables";
 /* @import "bootstrap/scss/bootstrap"; */
 
-.content {
-    font-size: $custom-font-size; //using custom variable 
-}
-
-.primarycolor{
-    color: #faa; //$primary; //using Bootstrap variable
-}
-
-h1 {
-    text-align: center;
-    margin-top: 1em;
-}
-
-article img {
-    float: left;
-    padding-right: 1em;
-    padding-bottom: 0.5em;
-}
-
-article {
-    padding-top: 1em;
-    clear: both;
-}
-
-.fancy {
-    text-align: center;
-    margin-top: 1em;
-}
-.fancy img {
-    width: 160px;
-}
-.fancy .col-sm-4 {
-    padding: 10px;
-    border: solid 1px #eee;
-}
-
-.fancy .col-sm-4:hover{
-    border: solid 1px #aaa;
-}
-
-#language {
-    padding: 1em;
-}
-
 /*$primary-color: $green;*/
 /* custom vars */
 /*! Bootstrap v4.3.1 (https://getbootstrap.com/) Copyright 2011-2019 The Bootstrap Authors Copyright 2011-2019 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
@@ -2458,3 +2414,48 @@ article { padding-top: 1em; clear: both; }
 .fancy .col-sm-4:hover { border: solid 1px #aaa; }
 
 /*# sourceMappingURL=main.css.map */
+
+
+.content {
+    font-size: $custom-font-size; //using custom variable 
+}
+
+.primarycolor{
+    color: #faa; //$primary; //using Bootstrap variable
+}
+
+h1 {
+    text-align: center;
+    margin-top: 1em;
+}
+
+article img {
+    float: left;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+}
+
+article {
+    padding-top: 1em;
+    clear: both;
+}
+
+.fancy {
+    text-align: center;
+    margin-top: 1em;
+}
+.fancy img {
+    width: 160px;
+}
+.fancy .col-sm-4 {
+    padding: 10px;
+    border: solid 1px #eee;
+}
+
+.fancy .col-sm-4:hover{
+    border: solid 1px #aaa;
+}
+
+#language {
+    padding: 1em;
+}
