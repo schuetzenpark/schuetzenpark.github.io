@@ -39,19 +39,19 @@
 		<script src="{{'/assets/vendor/popper.min.js' | prepend: site.baseurl}}"></script>
 		<script src="{{'/assets/vendor/bootstrap.min.js' | prepend: site.baseurl}}"></script>
 		
-		<div id="language">
-			<label>Language: </label>
-			<select size="1">
-				<option selected value="">English</option>
-				<option value="gh">Deutsch</option>
-				<option value="gl">Plattdüütsch</option>
-			</select>
+		<div class="container">
+			<div id="language">
+				<label>Language: </label>
+				<select size="1">
+					<option selected value="">English</option>
+					<option value="gh">Deutsch</option>
+					<option value="gl">Plattdüütsch</option>
+				</select>
+			</div>
+
+			{{ content }}
 		</div>
-		<style>
-			#language {
-				padding: 1em;
-			}
-		</style>
+
 		<script>
 			let languageInitial = '';
 			function setLanguageDefault() {
@@ -103,9 +103,5 @@
 				window.location = redirectTo;
 			});
 		</script>
-
-		<div class="container">
-			{{ content }}
-		</div>
 	</body>
 </html>
