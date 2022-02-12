@@ -13,6 +13,16 @@ permalink: /news.html
 The Schuetzen Park is always looking for quality performances and performers. We are especially interested in bands, singers, dancers, story tellers etc from German speaking countries. Please contact us at the address on the [Contact Page](contact.html) if you will be in our area and wish to be considered for an event at the Park.
 
 <article>
+<h2>Jens Lorenzen Pavilion Transformation</h2>
+<a href="/assets/images/pavilion-transformation.jpg" rel="example_group">
+  <img src="/assets/images/pavilion-transformation.jpg" style="max-height: 180px;">
+</a>
+<p>
+The Jens Lorenzen Pavilion underwent a major transformation in 2021 including the installation of removable wall panels which make the building usable year-round. The concrete floor has been polished, a wood-burning stove installed and beer-garden tables from Germany have arrived to provide seating for all types of occasions. The Ash wood paneling used to finish the interior walls, as well as the Cherry door and window trim, was all milled from storm damaged trees from within the Schuetzen Park. Special thanks to the major contributors who gave to make this improvement possible, Riverboat Development Authority, Scott County Regional Authority, The Waste Commission of Scott County and The Schuetzenpark Gilde through the generosity of numerous individual donors.
+</p>
+</article>    
+
+<article>
 <h2>Green Energy Provided by New Wind Turbine</h2>
 <a href="/assets/images/wind-turbine.jpg" rel="example_group">
   <img src="/assets/images/wind-turbine.jpg" style="max-height: 180px;">

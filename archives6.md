@@ -214,7 +214,7 @@ permalink: /archives6.html
 | ![Item](/assets/archives/people1507268603FriederichKirchner.jpg) | Friedrich |   | Kirchner | Park | Mitglied Teutonia Kranken Unterstützungs Verein - Row 5 |
 | ![Item](/assets/archives/people62130635FriedrichJuergensen.jpg) | Friedrich |   | Juergensen | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 1. Jägercorps, 3. Comp. |
 | ![Item](/assets/archives/people1443855402FriedrichHartmann.jpg) | Friedrich |   | Hartmann | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 2. Bataillon. 2. Comp. |
-| &nbsp;| Friedrich |   | Lütt | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 1. Artilerie-Etat |
+| ![Item](/assets/archives/people1891432066FriedrichLutt.jpg)| Friedrich |   | Lütt | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 1. Artilerie-Etat |
 | &nbsp;  | Friedrich [Fried] |   | Martzahn | Park | Germania Loge No.5 - Ancient Order of United Workmen - Row 3 #4 left to right. Photo not yet scanned. |
 | ![Item](/assets/archives/people1903507024FritzMoeller.jpg) | Fritz |   | Moeller | Park | Mitglied Teutonia Kranken Unterstützungs Verein - Row 3 |
 | &nbsp; | Fritz |   | Schütt | Park | Mitglied Teutonia Kranken Unterstützungs Verein - Row 3 |
@@ -361,7 +361,7 @@ permalink: /archives6.html
 | &nbsp;  | Jacob |   | Gloyer | Park | #99 on Davenport Turngemeinde 1883 picture. |
 | &nbsp;  | Jacob [Jac] |   | Strassen | Park | Germania Loge No.5 - Ancient Order of United Workmen - Row 6 #6 left to right. Photo not yet scanned. |
 | ![Item](/assets/archives/people767919537JakobWiggers.jpg) | Jakob |   | Wiggers | Park | Mitglied Teutonia Kranken Unterstützungs Verein - Row 2 |
-| &nbsp; | Jakob Guido | Theodor | Gülich | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50 Mitglied der provisorischen schleswig-holsteinischen Regierung, der Schleswig-Holsteinischen Landesversammlung und Delegierter im Fünfzigerausschuss. |
+| ![Item](/assets/archives/people1054220497TheodorGulich.jpg) | Jakob Guido | Theodor | Gülich | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50 Mitglied der provisorischen schleswig-holsteinischen Regierung, der Schleswig-Holsteinischen Landesversammlung und Delegierter im Fünfzigerausschuss. |
 | ![Item](/assets/archives/people1890766594JasperKuehl.jpg) | Jasper |   | Kuehl | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 15. Bataillon. |
 | &nbsp; | Jürgen |   | Proksch | Park | Mitglied Teutonia Kranken Unterstützungs Verein - Row 3 |
 | &nbsp; | Jürgen |   | Schultz | Park | Mitglied Teutonia Kranken Unterstützungs Verein - Row 5 |
@@ -377,7 +377,7 @@ permalink: /archives6.html
 | ![Item](/assets/archives/people1167337462JohannLorenzen.jpg) | Johann |   | Lorenzen | Park | Mitglied Teutonia Kranken Unterstützungs Verein - Row 1 |
 | ![Item](/assets/archives/people1997017757JohannKoehler.jpg) | Johann |   | Koehler | Park | Mitglied Teutonia Kranken Unterstützungs Verein - Row 5 |
 | ![Item](/assets/archives/people117928073JHMohr.jpg) | Johann | Heinrich | Mohr | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 1. und 4. Jägercorps |
-| &nbsp; | Johann |   | Doerscher | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 2. Drag.-Regiment, 1. Schwadron |
+| ![Item](/assets/archives/people106554510JohannDorscher.jpg)| Johann |   | Doerscher | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 2. Drag.-Regiment, 1. Schwadron |
 | ![Item](/assets/archives/people735227512JohHamann.jpg) | Johann | H. J. | Hamann | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 2. Jägercorps |
 | ![Item](/assets/archives/people1487284689JohannRathjen.jpg) | Johann |   | Rathjen | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 1. Jägercorps, 2. Comp. |
 | ![Item](/assets/archives/people1652419856JohannHass.jpg) | Johann | F. | Hass | Park | Schleswig-Holstein Kampfgenossen von 1848, 49, 50. 2. Bataillon, 1. Comp. |

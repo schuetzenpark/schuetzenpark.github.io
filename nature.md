@@ -17,6 +17,15 @@ Many projects take place annually to ensure that the balance of nature is mainta
 </div>
 
 <article>
+<h2>Scout Troop #199 Trail Improvements</h2>
+<img src="/assets/images/trail-steps.jpg" style="max-height: 300px;">
+<p>Scout Troop #199 completed a community service project at Schuetzen Park in the fall of 2021 by 
+rehabilitating a set of trail steps with handrails and new trail bedding material. Many thanks go out 
+the crew for their assistance with this project.
+</p>
+</article>
+
+<article>
 <h2>Green Thumbers Plant Oak Trees</h2>
 <img src="/assets/images/newsOakTrees.jpg">
 <p>Green thumbers from the Davenport Boys & Girls Club plant oak trees at the 
