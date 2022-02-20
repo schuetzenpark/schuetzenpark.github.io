@@ -77,3 +77,5 @@ permalink: /archives5gl.html
 | ![Item](/assets/archives/sp040.jpg) | 4 Stemware Champagne Glasses	 | Original use from Schuetzen Park Inn. From the William Smith estate -	 | SP-040	 | Park | 
 | ![Item](/assets/archives/sp041.jpg) | Schuetzen Park Mini Korn Mug	 | 2 1/2 inches tall, 1 3/4 inches diameter base. Korn/schnapps server. Circa 1913.	 | SP-041	 | Park | 
 | ![Item](/assets/archives/sp042.jpg) | Ellery Band Concert Schedule Post Card	 | 3 1/4 x 5 1/4 postcard. Croce Margadonna holding trombone on front. Schedule of concerts on addressee side. Undated, likely 1901 or 1907	 | SP-042 | 	Park | 
+| ![Item](/assets/archives/sp043.jpg) | 1917 Mohassan Grotto Photo | 38 x 10 black and white panoramic photo of the 1917 Mohassan Grotto Pick at Schuetzen Park by Hostetler. Has been digitized. Donated by GAHC | SP-043 | 	Park | 
+
