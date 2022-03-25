@@ -20,24 +20,7 @@ The Schuetzen Park is always looking for quality performances and performers. We
 <p>
 The Jens Lorenzen Pavilion underwent a major transformation in 2021 including the installation of removable wall panels which make the building usable year-round. The concrete floor has been polished, a wood-burning stove installed and beer-garden tables from Germany have arrived to provide seating for all types of occasions. The Ash wood paneling used to finish the interior walls, as well as the Cherry door and window trim, was all milled from storm damaged trees from within the Schuetzen Park. Special thanks to the major contributors who gave to make this improvement possible, Riverboat Development Authority, Scott County Regional Authority, The Waste Commission of Scott County and The Schuetzenpark Gilde through the generosity of numerous individual donors.
 </p>
-</article>    
-
-<article>
-<h2>Green Energy Provided by New Wind Turbine</h2>
-<a href="/assets/images/wind-turbine.jpg" rel="example_group">
-  <img src="/assets/images/wind-turbine.jpg" style="max-height: 180px;">
-</a>
-<p>
-Davenport’s Schuetzen Park has long been involved in the “green revolution”. The park already boosts solar panels, a composting toilet and water retention and purification ponds. Recently, a vertical axis wind turbine was installed to supplement the production of power by the park’s solar panels, which are often affected by the cloudy winter days, as well as sometimes being covered with snow and ice. </p>
-<p>
-Sometimes called a “Savonius” wind turbine, the vertical turbine form was invented by the Finnish engineer Sigurd Johannes Savonius in 1922. Although this configuration is not the “norm” in the wind turbine world, it did find it’s niche at Schuetzen Park for various reasons. </p>
-<p>
-The vertical axis wind turbine has a much lower profile and is less visually intrusive. These types of turbines are more easily mounted on existing roofs, poles, or similar areas that are likely to be windy. More importantly, a vertical axis turbine is much less likely than propeller style turbines to harm flying wildlife such bird, bats and butterflies. </p>
-<p>
- Produced in Laer, North Rhine-Westphalia (Nord-Rhein-Westfalen), Germany, the Park’s 220 Watt ElvWiS-II “Windrad” is mounted to the roof of the Jens Lorenzen Pavilion and is doing it’s intended job of providing supplementary power the park’s 8-6 volt deep cell batteries which store electricity for use at the park. 
-Funding for this project was provide by the Schuetzenpark Gilde, the Waste Commission of Scott County and Thrivent Financial, West Scott County Chapter.
-</p>
-</article>      
+</article> 
     
 <article>
 <h2>Street Car Pavilion Shines!</h2>
@@ -178,30 +161,7 @@ A restroom/storage building was constructed this summer by the Carpenter Trainin
 </div>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The term "green" is often misused and misrepresented, however, this is truly not the case at Schuetzen Park. All the Park's electric energy needs are now being met by a recently installed solar energy system. Students from Eastern Iowa Community College's (EICCD) Renewable Energy Program recently installed the system at the Park. Grants from the Doris and Victor Day Foundation, The Waste Commission of Scott County and donated materials from EICDD made this project possible. A full account of this project can be viewed in more detail in 
-<a href="http://radishmagazine.com/stories/display.cgi?prcss=display&id=575179">January's issue of "Radish" magazine</a>.
-</p>
-</article>
-
-<article>
-<h2>Schuetzenpark: Davenportís Lost Playland Available Now</h2>
-<div>
-
-</div>
-<p>
-<a href="/assets/images/book1smSoldOut.jpg" rel="example_group" style="float:left;margin-right: 10px;">
-  <img src="/assets/images/book1smSoldOut.jpg">
-</a>
-We recently discovered 25 new copies of our 2<sup>nd</sup> edition book ìSchuetzenpark: 
-Davenportís Lost Playlandî. We are happy to make these copies of this out-of-print 
-book available for the original sale price of $20.00 + $2.50 postage media mail 
-only).  This book is the most definitive publication ever written about the famous 
-shooting park. Printed on archival quality paper and containing some 40+ photos 
-and illustrations, this soft-bound booklet will never again be printed. All books 
-are numbered and fewer than 750 copies were ever printed. 100% of the proceeds 
-from the sale of this 64 page book benefit the Schuetzen Park Historic Site. To 
-order please send your payment to: Schuetzen Park 3401 Schuetzen Lane Box 224 
-Davenport, IA  52804-4353. 
+The term "green" is often misused and misrepresented, however, this is truly not the case at Schuetzen Park. All the Park's electric energy needs are now being met by a recently installed solar energy system. Students from Eastern Iowa Community College's (EICCD) Renewable Energy Program recently installed the system at the Park. Grants from the Doris and Victor Day Foundation, The Waste Commission of Scott County and donated materials from EICDD made this project possible.
 </p>
 </article>
 
