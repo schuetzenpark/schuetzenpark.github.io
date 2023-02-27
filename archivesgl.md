@@ -26,7 +26,7 @@ De Schuetzenpark-Gill hett een heel Deel vun Tueueg und Tuegnissen to besinnen u
             <p>Schuetzen Verein</p>
         </a>
         <a href="http://www.assra.com">http://www.assra.com</a>
-        <a href="http://www.dsaiowa.com">http://www.dsaiowa.com</a>
+        <a href="https://dsaiowa.org">https://dsaiowa.org</a>
     </div>
     <div class="col-sm-4">
         <a href="archives3gl.html">
