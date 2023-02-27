@@ -26,7 +26,7 @@ The Schuetzenpark Gilde has an extensive collection of historic materials and me
             <p>Schuetzen Verein</p>
         </a>
         <a href="http://www.assra.com">http://www.assra.com</a>
-        <a href="http://www.dsaiowa.com">http://www.dsaiowa.com</a>
+        <a href="https://dsaiowa.org">https://www.dsaiowa.org</a>
     </div>
     <div class="col-sm-4">
         <a href="archives3.html">
