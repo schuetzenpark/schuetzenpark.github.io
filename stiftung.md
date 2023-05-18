@@ -17,6 +17,6 @@ within the Park, however, at this point, any revenue generated is being reinvest
 page of this website, or, you may contact the Quad Cities Community Foundation directly at 563-326-2840
 </div>
 
-<div style="text-align: center;"><a href="http://www.cfgrb.org" style="border:none;">
-<img alt="Quad Cities Community Foundation" src="/assets/images/QCCFLogo.png">
+<div style="text-align: center;width: 80%;margin-top: 2em;"><a href="http://www.cfgrb.org" style="border:none;">
+  <img alt="Quad Cities Community Foundation" src="/assets/images/QCCFLogo.png" style="width: 200px;">
 </a></div>
