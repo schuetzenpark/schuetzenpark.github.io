@@ -4,7 +4,7 @@ title: Home
 permalink: /indexgl.html
 ---
 
-![Schuetzen Park Historic Site](/assets/images/scheutzen-park-150.gif)
+![Schuetzen Park Historic Site](/assets/images/schuetzen-park.jpg)
 {: .header-image}
 
 # Moin!
