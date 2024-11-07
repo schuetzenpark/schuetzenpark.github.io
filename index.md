@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-![Schuetzen Park Historic Site](/assets/images/scheutzen-park-150.gif)
+![Schuetzen Park Historic Site](/assets/images/schuetzen-park.jpg)
 {: .header-image}
 
 # "One of Nature's Fairest Spots" ™
