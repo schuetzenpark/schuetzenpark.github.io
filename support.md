@@ -17,6 +17,6 @@ You can also help by:
  * Designating Schuetzen Park in your Will - The Schuetzenpark Gilde also has qualified advisors who can help you designate the Park as a beneficiary to your estate. The legacy to leave will help make the world a better place for your children, grandchildren and people you have never met. Please contact the Gilde for more information on this subject.
 
 <div style="text-align: center;width: 80%;">
- <a style="margin-top: 2em;" href="[https://www.guidestar.org/profile/39-1899268](https://app.candid.org/profile/7582529/schuetzenpark-gilde-39-1899268)"><img src="/assets/images/candid.svg" style="width: 200px"></a>
+ <a style="margin-top: 2em;" href="[https://www.guidestar.org/profile/39-1899268](https://app.candid.org/profile/7582529/schuetzenpark-gilde-39-1899268)"><img src="/assets/images/candid.svg" style="width: 200px;margin-right: 10px"></a>
  <a style="margin-top: 2em;" href="https://www.guidestar.org/profile/39-1899268"><img src="/assets/images/seal2021.svg" style="width: 200px"></a>
 </div>
